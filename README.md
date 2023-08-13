@@ -7,4 +7,7 @@ This app allows users to search for and view high-quality images from Unsplash. 
 This application utilizes the [TMDB API](https://www.themoviedb.org/documentation/api) to fetch movie and TV show data, including images.
 Please note that you'll need to sign up for a free TMDB account to obtain an API key, which is required to access their API.
 
+# Calculator Web Application
+This is a simple calculator web application built using HTML, CSS, and JavaScript. It supports only basic arithmetic operations. It doesn't include advanced functions, scientific calculations, or complex equations.
+
 Happy coding! 🚀
