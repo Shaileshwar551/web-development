@@ -3,4 +3,8 @@ This repository contains a collection of web development projects that I am work
 # Image Search Engine Web Application
 This app allows users to search for and view high-quality images from Unsplash. It leverages the Unsplash API to fetch and display images based on user search queries.
 
+# Movie Search Engine Web Application
+This application utilizes the [TMDB API](https://www.themoviedb.org/documentation/api) to fetch movie and TV show data, including images.
+Please note that you'll need to sign up for a free TMDB account to obtain an API key, which is required to access their API.
+
 Happy coding! 🚀
